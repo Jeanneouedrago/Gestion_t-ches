@@ -1,0 +1,13 @@
+Nom et Prenom(s) des participants
+OUEDRAOGO Payidwendé Jeanne Françoise
+OUEDRAOGO Passing Abdoul Rahim
+ZIOUBOU P Pierre Abdoul Makidi
+
+2. Planificateur de Tâches Personnelles
+Ajouter une nouvelle tâche avec titre, description, priorité, et date limite.
+Modifier les informations d'une tâche existante.
+Supprimer une tâche de la liste.
+Marquer une tâche comme terminée ou en cours.
+Afficher toutes les tâches
+Rechercher des tâches par mot-clé
+Afficher les tâches complétées et en attente.
